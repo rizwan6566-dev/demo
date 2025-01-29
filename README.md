@@ -30,7 +30,7 @@
     
     </div>
 </div>
-<button id="reset">RESET GAME</button>
+<button id="reset">RESET GAME</button> 
 </main>
     <script src="script.js" ></script>
 </body>
